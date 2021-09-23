@@ -41,7 +41,7 @@
 <br>
 <br>
 
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true&theme=dark)
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true)
     
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&layout=compact)](https://github.com/paulynamagana/github-readme-stats)
