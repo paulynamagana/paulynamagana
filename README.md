@@ -3,7 +3,8 @@
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/pmagana/)
-[![Discord](https://www.flaticon.com/premium-icon/discord_3670157?term=discord&page=1&position=1&page=1&position=1&related_id=3670157&origin=search)](https://discordapp.com/users/Paulyna#0095)
+[![Discord](https://user-images.githubusercontent.com/80214683/141480138-9dfad6d7-ec80-4112-8a92-2185cf4f207d.png)](https://discordapp.com/users/Paulyna#0095)
+
 
 <div align="left">
 
