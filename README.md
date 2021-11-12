@@ -12,7 +12,7 @@
 👩🏻‍🔬  I'm a Genomic Biotechnologist <br />
 🛠  Building in-between lab experiments <br /> 
 👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br />
-🌱  Currently working on imprving my data science skills <br />
+🌱  Currently working on improving my data science skills <br />
  I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!  <br />
 
 </div>
