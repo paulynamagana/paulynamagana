@@ -47,6 +47,4 @@
     
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&layout=compact)](https://github.com/paulynamagana/github-readme-stats)
-(	https://github-readme-stats.vercel.app/api/top-langs/?paulynamagana={paulynamagana}&theme=blue-green)
-    
-    
+
