@@ -3,7 +3,7 @@
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/pmagana/)
-
+[![Discord](https://www.flaticon.com/premium-icon/discord_3670157?term=discord&page=1&position=1&page=1&position=1&related_id=3670157&origin=search)](https://discordapp.com/users/Paulyna#0095)
 
 <div align="left">
 
