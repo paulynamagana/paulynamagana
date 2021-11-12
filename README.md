@@ -3,7 +3,7 @@
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/pmagana/)
-[![Discord](https://user-images.githubusercontent.com/80214683/141480138-9dfad6d7-ec80-4112-8a92-2185cf4f207d.png)](https://discordapp.com/users/Paulyna#0095)
+[![Discord](https://dcbadge.vercel.app/api/shield/Paulyna#0095)
 
 
 <div align="left">
