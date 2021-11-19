@@ -1,8 +1,8 @@
-<h1 align='center'>
-    Hi, I'm Paulyna 👋!
-</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/paulynamagana/paulynamagana/master/gh_banner.png" alt="personal banner">
+<img src="https://github.com/paulynamagana/paulynamagana/blob/main/gh_banner.png" alt="personal banner">
      
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/pmagana/)
@@ -29,7 +29,9 @@
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 </div>
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 
 <br>
@@ -50,9 +52,12 @@
 
 <br>
 <br>
-
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true)
+<br>
+<div align="left">
+    <h2 align='left'>
+Github Stats</h2>
     
+![Hua's github stats](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true)
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&layout=compact)](https://github.com/paulynamagana/github-readme-stats)
 
