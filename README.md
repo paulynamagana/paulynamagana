@@ -20,9 +20,6 @@
 
 </div>
 
-<div align="left">
-<h2 align='left'>
-
 
 <br>
 <div align="left">
