@@ -2,7 +2,6 @@
 <h1 align="left">
 👋🏼 Hello, World!</h1>
 
-<img src="https://github.com/paulynamagana/paulynamagana/blob/main/gh_banner.png" alt="personal banner">
 <h2 align="left"> Connect with me </h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/pmagana/)
