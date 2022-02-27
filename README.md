@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+
 <h1 align="left">
 👋🏼 Hello, World!</h1>
 
@@ -31,7 +31,8 @@
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Visual Studio Code" width="50px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<i class="devicon-github-original"></i>
+<img align="left" alt="Github" width="50px"
+     src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
 <img align="left" alt="HTML5" width="50px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px"
