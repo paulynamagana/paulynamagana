@@ -1,6 +1,7 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<h1 align="left">
+👋🏼 Hello, World!</h1>
 </div>  
 
 <h2 align="left"> Connect with me </h2>
@@ -44,14 +45,18 @@
      src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
 <img align="left" alt="TF" width="50px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+ <img align="left" alt="JS" width="50px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <br>
 <br>
 
+<div align="left">
+ <h3 align='left'>
+    Currently learning </h3>
 
-### Currently learning
 <img align="left" alt="Heroku" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+
 </div>
 
 <br>
