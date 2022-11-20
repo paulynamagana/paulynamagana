@@ -1,6 +1,7 @@
 
-<h1 align="left">
-👋🏼 Hello, World!</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 <h2 align="left"> Connect with me </h2>
 
