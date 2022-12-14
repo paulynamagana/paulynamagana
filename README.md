@@ -13,10 +13,11 @@
 
 <div align="left">
 <h2 align"left"> About me </h2>
-👩🏻‍🔬  I'm a Genomic Biotechnologist <br />
-🛠  Building in-between lab experiments <br /> 
-👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br />
+👩🏻‍🔬  I'm a Genomic Biotechnologist. Working with CRISPR <br />
+🛠  Coding in-between lab experiments <br/> 
 🌱  Currently working on improving my data science skills <br />
+👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br />
+
 
 </div>
 
@@ -24,7 +25,7 @@
 <br>
 <div align="left">
     <h2 align='left'>
-    Programming Languages </h2>
+    Programming Languages and Skills </h2>
     
 <img align="left" alt="R" width="50px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
@@ -49,10 +50,12 @@
 <br>
 <br>
 
+    
 <div align="left">
  <h3 align='left'>
     Currently learning </h3>
 
+    
 <img align="left" alt="Heroku" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
