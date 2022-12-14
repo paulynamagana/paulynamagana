@@ -17,7 +17,6 @@
 🛠  Building in-between lab experiments <br /> 
 👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br />
 🌱  Currently working on improving my data science skills <br />
- I’m looking forward to learn from all amazing minds 🧠 in the tech world 🌍!  <br />
 
 </div>
 
@@ -25,7 +24,7 @@
 <br>
 <div align="left">
     <h2 align='left'>
-    Skills set </h2>
+    Programming Languages </h2>
     
 <img align="left" alt="R" width="50px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
