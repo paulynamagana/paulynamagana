@@ -67,7 +67,6 @@
     <h2 align='left'>
 Github Stats</h2>
     
-![Hua's github stats](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true&theme=codeSTACKr)
+[![Paulyna's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true&theme=codeSTACKr)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&layout=compact)](https://github.com/paulynamagana/github-readme-stats)
 
