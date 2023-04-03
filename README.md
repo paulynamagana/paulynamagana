@@ -6,17 +6,16 @@
 
 <h2 align="left"> Connect with me </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmagana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulynamagana/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Paulyna#0095)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PaulynaMagana)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paulynamagana.github.io/Portfolio_paulyna/)
 
 <div align="left">
 <h2 align"left"> About me </h2>
-👩🏻‍🔬  I'm a Genomic Biotechnologist. Working with CRISPR <br />
-🛠  Coding in-between lab experiments <br/> 
-🌱  Currently working on improving my data science skills <br />
-👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br />
+👩🏻‍🔬  I'm a Genomic Biotechnologist/Bioinformatician <br />
+🛠  Currently working on developing training materials for AlphaFold at EMBL-EBI <br/>
+👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br/>
 
 
 </div>
