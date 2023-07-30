@@ -64,7 +64,5 @@
 <div align="left">
     <h2 align='left'>
 Github Stats</h2>
-    
-[![Paulyna's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=paulynamagana&show_icons=true&theme=codeSTACKr)
-    
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&hide_progress=true)
