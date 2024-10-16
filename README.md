@@ -13,7 +13,7 @@ Never stop learning because life never stops teaching.
 
 <div align="left">
 <h2 align"left"> About me </h2>
-👩🏻‍🔬  I'm a Genomic Biotechnologist/Bioinformatician <br />
+👩🏻‍🔬  I'm a Bioinformatician <br />
 🛠  Currently working on developing training materials for AlphaFold at EMBL-EBI <br/>
 👀  Curious mind. Continuously learning, seeking patterns and connecting dots.  <br/>
 
