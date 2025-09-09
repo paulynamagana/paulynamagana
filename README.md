@@ -20,8 +20,7 @@ Never stop learning because life never stops teaching.
 
 <br>
 <div align="left">
-    <h2 align='left'>
-    Programming Languages and Skills </h2>
+<h2 align='left'>Programming Languages and Skills </h2>
     
 <img align="left" alt="R" width="50px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
@@ -47,19 +46,18 @@ Never stop learning because life never stops teaching.
 <br>
 <br>
 
-    
-<div align="left">
- <h3 align='left'>
-    Currently learning </h3>
-
-
-
 </div>
-
-<br>
-<br>
 <div align="left">
-    <h2 align='left'>
-Github Stats</h2>
+<h3 align='left'>Currently learning </h3>
+<img align="left" alt="PT" width="100px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" />
+
+<br><br><br>
+<br>
+</div>
+<div align="left">
+
+    
+<h2 align='left'>Github Stats</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&hide_progress=true)
