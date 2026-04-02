@@ -13,7 +13,7 @@ Never stop learning because life never stops teaching.
 
 <div align="left">
 <h2 align"left"> About me </h2>
-:woman_technologist:  I'm a Structural Bioinformatician <br />
+:woman_technologist:  I'm a Computational Structural Biologist <br />
 
 </div>
 
