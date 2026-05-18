@@ -48,8 +48,3 @@ Never stop learning because life never stops teaching.
 <br>
 </div>
 <div align="left">
-
-    
-<h2 align='left'>Github Stats</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulynamagana&hide_progress=true)
